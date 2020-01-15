@@ -1,10 +1,7 @@
 #### 알고리즘 정리
 
-
-
-[버블 정렬 (Bubble Sort)](https://shinaaaa.github.io/버블정렬(BubbleSort)/)
-
-
+[버블 정렬 (Bubble Sort)](<https://shinaaaa.github.io/버블정렬(BubbleSort)/>)
+[선택정렬 (Selection Sort)](<https://shinaaaa.github.io/선택정렬(SelectionSort)/>)
 
 #### 출처
 
