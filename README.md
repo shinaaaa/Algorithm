@@ -2,7 +2,9 @@
 
 [버블 정렬 (Bubble Sort)](<https://shinaaaa.github.io/버블정렬(BubbleSort)/>)
 
-[선택정렬 (Selection Sort)](<https://shinaaaa.github.io/선택정렬(SelectionSort)/>)
+[선택 정렬 (Selection Sort)](<https://shinaaaa.github.io/선택정렬(SelectionSort)/>)
+
+[삽입 정렬 (Insertion Sort)](<https://shinaaaa.github.io/삽입정렬(InsertionSort)/>)
 
 #### 출처
 
