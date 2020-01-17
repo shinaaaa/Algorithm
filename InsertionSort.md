@@ -2,6 +2,8 @@
 
 
 
+이미지 출처 : https://gfycat.com/ru/densebaggyibis
+
 삽입 정렬 (Insertion Sort)
 
 - 선택한 요소를 알맞은 위치에 삽입하는 정렬
