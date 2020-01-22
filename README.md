@@ -6,6 +6,8 @@
 
 [삽입 정렬 (Insertion Sort)](<https://shinaaaa.github.io/삽입정렬(InsertionSort)/>)
 
+[재귀용법 (Recursive Call)](<https://shinaaaa.github.io/재귀용법-(Recursive-Call)/>)
+
 #### 출처
 
 [Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편 / 이지퍼블리싱](http://www.yes24.com/Product/Goods/60547893?Acode=101)
